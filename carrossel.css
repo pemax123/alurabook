@@ -58,4 +58,26 @@
       margin: 2em 0 3em 0;
     }
   }
+
+  @media screen and (min-width: 1728px) {
+    /* Código omitido */
+  
+    .swiper {
+      width: 50%;
+    }
+  }
+  
+  @media screen and (min-width: 1728px) {
+    /* Código omitido */
+  
+    .descrição__titulo {
+      font-size: 32px;
+    }
+  
+    .descrição__texto {
+      font-size: 16px;
+    }
+  }
+  
+  
   
